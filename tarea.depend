@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1427076959 source:/home/bananacodecl/Tarea/tarea/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
